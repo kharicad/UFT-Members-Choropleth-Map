@@ -1,0 +1,13 @@
+Manhattan Schools Teacher Density Analysis
+=========================================
+
+Total schools in dataset: 372
+Schools with teacher data: 367
+Schools without teacher data: 5
+
+Teacher Statistics:
+- Total teachers: 65622
+- Average teachers per school: 176.4
+- Median teachers per school: 133.5
+- Max teachers at a school: 2669
+- Min teachers at a school: 0
