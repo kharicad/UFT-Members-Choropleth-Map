@@ -101,8 +101,5 @@ python teacher_density_choropleth.py
 
 ## BY:
 Khari Cadogan
-
-## 📄 License
-N/A
 ---
 *This project was created to visualize UFT member distribution across Manhattan schools, providing insights into staffing patterns and density across the NYC Department of Education.*
