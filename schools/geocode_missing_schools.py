@@ -5,7 +5,7 @@ from time import sleep
 # === Step 1: Load your data ===
 df = pd.read_excel("schoolsfinal_still_missing_after_all_matching.xlsx")
 
-API_KEY = "AIzaSyDfsl1mjjNVgkHyd1WMVrYqyPxfmCa7lSQ"
+API_KEY = ""
 
 # === Step 3: Geocode function ===
 def geocode_google(search_name):
